@@ -121,7 +121,7 @@
       <recent name="C:\Users\krist\Java\Dev-ops-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.TravisdemoApplication">
+  <component name="RunManager" selected="JUnit.AccountTest">
     <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Dev-ops-practice" />
       <extension name="coverage">
@@ -195,8 +195,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.TravisdemoApplication" />
         <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="Spring Boot.TravisdemoApplication" />
         <item itemvalue="JUnit.TravisdemoApplicationTests" />
         <item itemvalue="JUnit.DevOpsPracticeApplicationTests" />
         <item itemvalue="Spring Boot.DevOpsPracticeApplication" />
@@ -301,10 +301,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="116" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1598254122667" />
-    <state x="10" y="14" key="CommitChangelistDialog2" timestamp="1598260696003">
+    <state x="10" y="14" key="CommitChangelistDialog2" timestamp="1598261132855">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="10" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598260696003" />
+    <state x="10" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598261132855" />
     <state x="0" y="68" key="DiffContextDialog" timestamp="1598256903755">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -345,10 +345,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="207" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598255120254" />
-    <state x="362" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598260700924">
+    <state x="362" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598261135728">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="362" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598260700924" />
+    <state x="362" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598261135728" />
     <state x="179" y="153" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598254858791">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
