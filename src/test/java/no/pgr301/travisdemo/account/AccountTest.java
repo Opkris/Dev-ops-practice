@@ -15,5 +15,6 @@ class AccountTest {
 
     @Test
     void assertSomethingIsWrong() {
-        assertFalse (1 == 2);
+        assertFalse(1 == 2);
     }
+}
