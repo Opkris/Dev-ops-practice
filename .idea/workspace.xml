@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a9792e7-b801-40c7-b9a1-61ea3ace9ec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../01-devops-helloworld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="5a9792e7-b801-40c7-b9a1-61ea3ace9ec4" name="Default Changelist" comment="First commit">
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Dev-ops-practice.iml" afterDir="false" />
@@ -19,12 +16,7 @@
       <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/TravisdemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/account/AccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/no/pgr301/travisdemo/account/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/no/pgr301/travisdemo/ServletInitializer.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/no/pgr301/travisdemo/TravisdemoApplication.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/no/pgr301/travisdemo/account/Account.class" afterDir="false" />
@@ -33,154 +25,9 @@
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/no/pgr301/travisdemo/account/AccountTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enterprise_practice/Enterprise_practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin-card-game/Kotlin-card-game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin-card-game/cards-dto/cards-dto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin-card-game/user-collections/user-collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice Enterprise/PracticeEnterprise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz Game/Quiz_Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../README.me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/2. Exercises/2. Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Algorithems/Algorithems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/AreaCalculator/AreaCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ArrayChallange vol2/ArrayChallange vol2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ArrayChallange/ArrayChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ArrayListChallange vol 2/ArrayListChallange vol 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ArrayListChallange/ArrayListChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Autoboxing &amp; unboxing Challange/Banking.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Autoboxing &amp; unboxing challange with Tim/Autoboxing &amp; unboxing challange with Tim.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/BarkingDog/BarkingDog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/BarkingDog/untitled104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/BinarySearchArrayvol2/BinarySearchArrayvol2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Binarycalc/Binarycalc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/BlackJack/BlackJack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ByteShortInt/ByteShortInt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/CarpetCostCalculator/CarpetCostCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ChallangeComposition/ChallangeComposition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ChallangeEncapsulation/ChallangeEncapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Classes/Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/CodeWars/CodeWars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ComplexOperations/ComplexOperations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Composition/Composition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Constructors/Constructors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Cylinder/Cylinder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Daily Challange 2/Daily Challange 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Daily Challange 3/Daily Challange 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Daily Challange 5/Daily Challange 5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Daily challange 4/Daily challange 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Day of the week challange vol2/Day of the week challange vol2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/DigitSumChallange vol 2/DigitSumChallange vol 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/DigitSumChallange/DigitSumChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Encapsulation/Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/EqualityPrinter/EqualityPrinter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Exercise 02/Exercise 02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Exercise 03/Exercise 03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Exercise 07/Exercise 07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Exercise 4/Exercise 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Factorial/Factorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/FirsAndLastDigitSum/FirsAndLastDigitSum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/FloatAndDouble/FloatAndDouble.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/FlourPackProblem/FlourPackProblem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/HarmonicSequence/HarmonicSequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Inheritance/Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/InheritanceChallenge/InheritanceChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/InsertionSort/.idea/InsertionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/InsertionSort/InsertionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/KeywordsAndExpressions/KeywordsAndExpressions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Kode24/Kode24.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/LargestPrime/LargestPrime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/LeapYearCalculator/LeapYearCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ListAndArrayList/ListAndArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Mandatory Assignment/Mandatory Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MapBinarySearchArray/BinarySearchArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MegaBytesConverter/MegaBytesConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MergeSort/MergeSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MergeSortvol2/MergeSortvol2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MethodOverloading/MethodOverloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Methods/Methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Methodsf/Methodsf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MinAndMaxInputChallange vol2/MinAndMaxInputChallange vol2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MinAndMaxInputChallange/MinAndMaxInputChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MinElementChallange/MinElementChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MinutesToDaysCalculator/MinutesToDaysCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MyQueueArray/MyQueueArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/MyStackLinkedList/MyStackLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/NumberPalindrome/NumberPalindrome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/OOP Ecercises/OOP Ecercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/OOPTest/OOPTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Operators/Operators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ParsingValuesFromString/ParsingValuesFromString.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Person/Person.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/PlayingCat/PlayingCat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Point/Point.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Polymorphism/Polymorphism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/PoolArea/PoolArea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/PrintNumberInWord/PrintNumberInWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/QuickSort/QuickSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ReadingUserInput/ReadingUserInput.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ReadingUserInputChallange vol2/ReadingUserInputChallange vol2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ReadingUserInputChallange/ReadingUserInputChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ReferenceVsValueTypes/ReferenceVsValueTypes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/RepSortAlgorithms/RepSortAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ReverseArrayChallange/ReverseArrayChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Romen-number/Romen-number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Romen.number/Romen.number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/RomerTall/RomerTall.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/StatementsWhiteSpaceAndlndenting/StatementsWhiteSpaceAndlndenting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Strings/Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Sum3And5Challenge/Sum3And5Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/SumCalculator/SumCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Switch/Switch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Test Exam/Test Exam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/TestSingleInheritance/TestSingleInheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/WallArea/WallArea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/While/While.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/Yatzi/Yatzi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/allFactors/allFactors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/areEqualByThreeDecimalPlaces/areEqualByThreeDecimalPlaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/areEqualByThreeDecimalPlaces/untitled104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/bubbleSort/bubbleSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/evenDigitSum/evenDigitSum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/forLoop/forLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/greatestCommonDivisor/greatestCommonDivisor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/hasEqualSum/hasEqualSum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/hasTeen/hasTeen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/helloWorld/helloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/ifKeywordAndCodeBlocks/ifKeywordAndCodeBlocks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/lastDigitChecker/lastDigitChecker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/myBinarySearchArray/myBinarySearchArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/myLinkedList/myLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/numberOfDaysInMonth/numberOfDaysInMonth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/numberToWord/numberToWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/perfectNumber/perfectNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/polymorphismChallenge/polymorphismChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/randomTests/randomTests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/repAlgDat/repAlgDat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/sharedDigit/sharedDigit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/speedConverter/speedConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/sumOdd/sumOdd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/testing/testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/testtest/testtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester 1 - 3/webshopdb/.idea/webshopdb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise_enterprise/exercise_enterprise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise_enterprise/intro/exercise/quiz-game/part-01/part-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockEksamFromWebApi/mockEksamFromWebApi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pg5100-exam-master/.idea/pg5100-exam-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springBoot/backend/backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springBoot/frontend/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springBoot/report/report.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springBoot/springBoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tsdes-exercise-master/Web-Api-Mock/Web-Api-Mock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tsdes-exercise-master/Web-Api-Mock/backend/backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tsdes-exercise-master/Web-Api-Mock/frontend/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tsdes-exercise-master/Web-Api-Mock/report/report.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +39,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Dev-ops-practice" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -353,12 +203,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598252418443</updated>
-      <workItem from="1598252423909" duration="1944000" />
+      <workItem from="1598252423909" duration="2443000" />
     </task>
+    <task id="LOCAL−00001" summary="First commit">
+      <created>1598254570197</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1598254570197</updated>
+    </task>
+    <task id="LOCAL−00002" summary="First commit">
+      <created>1598254591761</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1598254591761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="24" y="78" key="#Project_Structure" timestamp="1598253029670">
@@ -377,26 +244,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="116" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1598254122667" />
-    <state x="10" y="14" key="CommitChangelistDialog2" timestamp="1598254567897">
+    <state x="10" y="14" key="CommitChangelistDialog2" timestamp="1598254882859">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="10" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598254567897" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1598254413356">
+    <state x="10" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598254882859" />
+    <state x="0" y="68" key="DiffContextDialog" timestamp="1598254639857">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598254413356" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1598254413356">
+    <state x="0" y="68" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1598254639857" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1598254990872">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598254413356" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1598254413356">
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598254990872" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1598254990872">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598254413356" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1598254413356">
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598254990872" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1598254990871">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598254413356" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598254990871" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1598254990872">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598254990872" />
     <state width="1493" height="207" key="GridCell.Tab.1.bottom" timestamp="1598253654450">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -413,18 +284,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="207" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598253654450" />
-    <state x="362" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598254527963">
+    <state x="362" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598255003121">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="362" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598254527963" />
+    <state x="362" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598255003121" />
+    <state x="179" y="153" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598254858791">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="179" y="153" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.834@0.0.1536.834" timestamp="1598254858791" />
     <state x="541" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598254266526">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="541" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1598254266526" />
-    <state x="431" y="155" key="search.everywhere.popup" timestamp="1598254469154">
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1598254675349">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1598254469154" />
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1598254675349" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
