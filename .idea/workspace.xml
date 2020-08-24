@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a9792e7-b801-40c7-b9a1-61ea3ace9ec4" name="Default Changelist" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -13,10 +15,11 @@
       <change afterPath="$PROJECT_DIR$/Dev-ops-practice.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/TravisdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/no/pgr301/travisdemo/account/AccountRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/no/pgr301/travisdemo/ServletInitializer.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/no/pgr301/travisdemo/TravisdemoApplication.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/no/pgr301/travisdemo/account/Account.class" afterDir="false" />
@@ -25,9 +28,11 @@
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/no/pgr301/travisdemo/account/AccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +70,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1gXEDbkDshKO8pNqxtqce0aQlda" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -82,7 +90,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/no/pgr301" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -100,11 +108,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="no.pgr301.travisdemo.account" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="java.no.pgr301.travisdemo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\krist\Java\Dev-ops-practice\src\main\java\no\pgr301" />
@@ -113,7 +121,7 @@
       <recent name="C:\Users\krist\Java\Dev-ops-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AccountTest">
+  <component name="RunManager" selected="Spring Boot.TravisdemoApplication">
     <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Dev-ops-practice" />
       <extension name="coverage">
@@ -172,8 +180,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TravisdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Dev-ops-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.pgr301.travisdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="no.pgr301.travisdemo.TravisdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.TravisdemoApplication" />
         <item itemvalue="JUnit.AccountTest" />
         <item itemvalue="JUnit.TravisdemoApplicationTests" />
         <item itemvalue="JUnit.DevOpsPracticeApplicationTests" />
@@ -203,7 +225,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598252418443</updated>
-      <workItem from="1598252423909" duration="2443000" />
+      <workItem from="1598252423909" duration="2695000" />
+      <workItem from="1598255142074" duration="1891000" />
+      <workItem from="1598257324244" duration="2155000" />
     </task>
     <task id="LOCAL−00001" summary="First commit">
       <created>1598254570197</created>
@@ -217,7 +241,37 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1598254591761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="First commit">
+      <created>1598255034492</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1598255034492</updated>
+    </task>
+    <task id="LOCAL−00004" summary="First commit">
+      <created>1598256509800</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1598256509800</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Removed mvn files, testing for Travis">
+      <created>1598257554562</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1598257554562</updated>
+    </task>
+    <task id="LOCAL−00006" summary="added some new properties to pom file">
+      <created>1598260613611</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1598260613611</updated>
+    </task>
+    <task id="LOCAL−00007" summary="added some database configuration in application.properties">
+      <created>1598260696637</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1598260696637</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +279,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Removed mvn files, testing for Travis" />
+    <MESSAGE value="added some new properties to pom file" />
+    <MESSAGE value="added some database configuration in application.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some database configuration in application.properties" />
   </component>
   <component name="WindowStateProjectService">
     <state x="24" y="78" key="#Project_Structure" timestamp="1598253029670">
@@ -244,50 +301,54 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="116" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1598254122667" />
-    <state x="10" y="14" key="CommitChangelistDialog2" timestamp="1598254882859">
+    <state x="10" y="14" key="CommitChangelistDialog2" timestamp="1598260696003">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="10" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598254882859" />
-    <state x="0" y="68" key="DiffContextDialog" timestamp="1598254639857">
+    <state x="10" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598260696003" />
+    <state x="0" y="68" key="DiffContextDialog" timestamp="1598256903755">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="68" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1598254639857" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1598254990872">
+    <state x="0" y="68" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1598256903755" />
+    <state x="606" y="310" key="Github.ShareDialog" timestamp="1598256995614">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598254990872" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1598254990872">
+    <state x="606" y="310" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1598256995614" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1598256712983">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598254990872" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1598254990871">
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598256712983" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1598256712983">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598254990871" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1598254990872">
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598256712983" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1598256712983">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598254990872" />
-    <state width="1493" height="207" key="GridCell.Tab.1.bottom" timestamp="1598253654450">
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598256712983" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1598256712983">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598253654450" />
-    <state width="1493" height="207" key="GridCell.Tab.1.center" timestamp="1598253654450">
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598256712983" />
+    <state width="1493" height="207" key="GridCell.Tab.1.bottom" timestamp="1598255120254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1598253654450" />
-    <state width="1493" height="207" key="GridCell.Tab.1.left" timestamp="1598253654450">
+    <state width="1493" height="207" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598255120254" />
+    <state width="1493" height="207" key="GridCell.Tab.1.center" timestamp="1598255120254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1598253654450" />
-    <state width="1493" height="207" key="GridCell.Tab.1.right" timestamp="1598253654450">
+    <state width="1493" height="207" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1598255120254" />
+    <state width="1493" height="207" key="GridCell.Tab.1.left" timestamp="1598255120254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598253654450" />
-    <state x="362" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598255003121">
+    <state width="1493" height="207" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1598255120254" />
+    <state width="1493" height="207" key="GridCell.Tab.1.right" timestamp="1598255120254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="362" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598255003121" />
+    <state width="1493" height="207" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598255120254" />
+    <state x="362" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598260700924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="362" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598260700924" />
     <state x="179" y="153" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598254858791">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
